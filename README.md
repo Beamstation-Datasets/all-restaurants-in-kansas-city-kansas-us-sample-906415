@@ -1,6 +1,6 @@
 # All Restaurants in Kansas City, Kansas, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `906415` |
 | Location | Kansas City |
 | Category | Restaurants |
-| Full dataset size | 385 records |
-| Free sample size | 38 records (9.87%) |
-| Last export | 2026-04-14T13:27:54.605170+00:00 |
+| Full dataset size | 235 records |
+| Free sample size | 23 records (9.79%) |
+| Last export | 2026-04-21T14:27:27.268408+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kansas-city-kansas-us-sample-906415/releases/download/sample-latest/beamstation_906415_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
