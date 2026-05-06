@@ -1,12 +1,12 @@
 {
-  "export_job_id": "207f6944-b05f-45ab-8a30-70d0997464f2",
+  "export_job_id": "357fc56b-c985-4a66-81d9-03cf62d03a66",
   "id_short": 906415,
-  "published_at": "2026-04-28T19:31:30Z",
+  "published_at": "2026-05-06T19:14:33Z",
   "repo_name": "all-restaurants-in-kansas-city-kansas-us-sample-906415",
   "sample_asset_name": "beamstation_906415_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/906415/beamstation_906415_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 37,
-  "sample_sha256": "9dd41ac159e201ca33622cc4292f4f85cb03b5d2828be422723fd58ee732b84f",
-  "sample_size_bytes": 135882,
-  "total_records": 374
+  "sample_records": 40,
+  "sample_sha256": "c3cd3dabdadd014c9151457ded7ab686c3b203d8795d61f815bb2b31d9a010e8",
+  "sample_size_bytes": 151966,
+  "total_records": 408
 }
